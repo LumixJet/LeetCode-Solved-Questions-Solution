@@ -21,4 +21,13 @@ This repository contains the solution of all the LeetCode questions which I have
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0344-reverse-string) |
+# Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0013-roman-to-integer) |
+# Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0013-roman-to-integer) |
