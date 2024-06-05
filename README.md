@@ -6,6 +6,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0054-spiral-matrix) |
 # Binary Search
 |  |
 | ------- |
@@ -31,3 +32,11 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0013-roman-to-integer) |
+# Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0054-spiral-matrix) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0054-spiral-matrix) |
