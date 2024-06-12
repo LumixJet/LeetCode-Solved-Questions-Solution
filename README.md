@@ -32,6 +32,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0050-powx-n) |
 # Matrix
 |  |
 | ------- |
@@ -40,3 +41,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0054-spiral-matrix) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0050-powx-n) |
