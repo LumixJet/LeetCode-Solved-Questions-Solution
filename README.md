@@ -6,6 +6,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0054-spiral-matrix) |
 # Binary Search
@@ -19,6 +20,7 @@ This repository contains the solution of all the LeetCode questions which I have
 # Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0344-reverse-string) |
 # String
 |  |
