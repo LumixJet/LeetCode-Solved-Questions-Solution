@@ -20,6 +20,7 @@ This repository contains the solution of all the LeetCode questions which I have
 # Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0344-reverse-string) |
 # String
@@ -27,6 +28,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0006-zigzag-conversion](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0344-reverse-string) |
 # Hash Table
 |  |
@@ -51,3 +53,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0050-powx-n) |
+# String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
