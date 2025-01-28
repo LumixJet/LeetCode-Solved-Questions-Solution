@@ -65,6 +65,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0004-median-of-two-sorted-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
+| [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
@@ -120,12 +121,14 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
@@ -138,4 +141,8 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
