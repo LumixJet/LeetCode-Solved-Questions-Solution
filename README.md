@@ -71,6 +71,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
