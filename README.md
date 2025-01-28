@@ -67,6 +67,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
@@ -113,6 +114,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
@@ -125,6 +127,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 ## Matrix
@@ -132,6 +135,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
@@ -148,4 +152,9 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
