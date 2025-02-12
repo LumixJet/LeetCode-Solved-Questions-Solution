@@ -72,6 +72,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -84,6 +85,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
@@ -96,6 +98,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
@@ -172,6 +175,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Shortest Path
 |  |
 | ------- |
