@@ -195,6 +195,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +220,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
