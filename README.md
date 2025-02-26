@@ -73,6 +73,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 | [2107-find-unique-binary-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
@@ -256,4 +257,5 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
