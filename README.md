@@ -79,6 +79,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
@@ -128,6 +129,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
 ## Union Find
 |  |
 | ------- |
@@ -223,6 +225,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3447-clear-digits) |
 ## Design
 |  |
