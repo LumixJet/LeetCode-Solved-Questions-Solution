@@ -102,6 +102,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -256,6 +257,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Dynamic Programming
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
