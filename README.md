@@ -77,6 +77,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1876-map-of-highest-peak](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1876-map-of-highest-peak) |
 | [2107-find-unique-binary-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -131,6 +132,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Union Find
@@ -229,6 +231,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3447-clear-digits) |
 ## Design
