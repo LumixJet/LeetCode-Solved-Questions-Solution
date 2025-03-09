@@ -87,6 +87,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3483-alternating-groups-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -280,4 +281,5 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
