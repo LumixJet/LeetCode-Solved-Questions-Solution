@@ -89,6 +89,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -131,6 +132,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +209,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1477-product-of-the-last-k-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
+| [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Heap (Priority Queue)
 |  |
