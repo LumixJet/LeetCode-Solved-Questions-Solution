@@ -68,6 +68,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -131,6 +132,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
