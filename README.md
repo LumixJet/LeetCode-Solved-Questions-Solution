@@ -86,6 +86,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -136,6 +137,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2665-minimum-time-to-repair-cars) |
+| [2690-house-robber-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
