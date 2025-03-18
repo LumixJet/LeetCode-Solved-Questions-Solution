@@ -3,24 +3,26 @@ public:
     int longestNiceSubarray(vector<int>& nums) 
     {
         int n = nums.size();
-        int res = 0; //variable to store final answer
 
-        for(int i=0;i<n;i++) //iterate nums array 
+        int i=0; //using sliding window approach to find longest nice subarray where j will go forward and
+        int j=0; //find valid window and if we get valid window then we shrink the window  to get new 
+                                                                    //valid window by moving i forward
+        int res = 1; //by defult 1 size window will be always possible
+        int mask = 0; //use to find new number where all it should not have 1 present to be in valid window
+
+        while(j < n)
         {
-            int mask = 0; //mask number to find valid window 
+            while((mask & nums[j]) != 0) //perform AND operation with mask and current element if it does 
+            {                                       //not gives 0 then we shrink window to find new window
 
-            for(int j=i;j<n;j++) //start from i and afterwards each time 
-            {
-                if((mask & nums[j]) != 0) //if current number AND operation is not equal to 0 completely then that number will 
-                {                        //not be included in a valid window so we try to find a new valid window
-                    break;  
-                }
-
-                mask = (mask | nums[j]); //once we find valid window then we do OR operation with numbers to get at what position
-                                                            //bit should not be 1 for next number to get included in a valid window
-                res = max(res, j-i+1); //store ans in res
+                mask = (mask ^ nums[i]); //shrink using XOR with current mask and number pointed by i 
+                i++; //increase i as we skiped now previous pointed i number from window 
             }
+            res = max(res, j-i+1); //find longest nice subarray which is possible in nums
+            mask = (mask | nums[j]); //update mask with current element if it gets included in current 
+            j++;                  //valid window and increase j pointer to see new element for valid window
         }
-        return res; //return longest nice subarray which is present in nums
+
+        return res; //return final result which store length of longest nice subarray 
     }
 };
