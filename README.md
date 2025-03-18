@@ -81,6 +81,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2265-partition-array-according-to-given-pivot](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -230,6 +231,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Bit Manipulation
 |  |
 | ------- |
+| [2478-longest-nice-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2478-longest-nice-subarray) |
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
 ## Math
 |  |
@@ -298,6 +300,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
