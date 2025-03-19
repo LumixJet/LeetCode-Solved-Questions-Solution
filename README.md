@@ -92,6 +92,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -216,6 +217,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1477-product-of-the-last-k-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2145-grid-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Heap (Priority Queue)
@@ -233,6 +235,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2478-longest-nice-subarray) |
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -301,6 +304,11 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
