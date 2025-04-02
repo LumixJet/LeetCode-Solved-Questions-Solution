@@ -96,6 +96,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2792-neighboring-bitwise-xor](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3429-special-array-i) |
