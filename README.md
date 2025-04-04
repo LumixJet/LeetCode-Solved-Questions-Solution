@@ -113,6 +113,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2107-find-unique-binary-string) |
@@ -187,6 +188,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0684-redundant-connection](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -213,6 +215,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1558-course-schedule-iv) |
@@ -320,11 +323,13 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
