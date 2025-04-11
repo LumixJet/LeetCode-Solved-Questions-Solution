@@ -286,6 +286,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
@@ -366,4 +367,8 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
