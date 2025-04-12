@@ -66,6 +66,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0854-making-a-large-island](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -340,6 +341,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
