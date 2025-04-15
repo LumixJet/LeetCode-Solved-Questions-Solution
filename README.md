@@ -83,6 +83,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2478-longest-nice-subarray) |
@@ -163,6 +164,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2690-house-robber-iv) |
@@ -172,6 +174,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -380,4 +383,20 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
