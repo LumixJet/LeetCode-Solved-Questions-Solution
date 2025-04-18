@@ -136,6 +136,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
