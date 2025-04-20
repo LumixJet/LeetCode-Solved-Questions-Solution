@@ -67,6 +67,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -119,6 +120,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
+| [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -292,6 +294,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -337,6 +340,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
