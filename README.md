@@ -302,6 +302,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -365,10 +366,12 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
@@ -414,4 +417,8 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
