@@ -126,6 +126,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -298,6 +299,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2050-count-good-numbers) |
