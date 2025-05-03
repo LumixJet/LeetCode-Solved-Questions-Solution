@@ -149,6 +149,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0038-count-and-say](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
+| [0868-push-dominoes](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0868-push-dominoes) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -198,6 +199,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0868-push-dominoes](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -374,6 +376,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
