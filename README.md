@@ -116,6 +116,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -236,6 +237,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2564-most-profitable-path-in-a-tree](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -267,6 +269,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2685-first-completely-painted-row-or-column) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting
 |  |
 | ------- |
@@ -293,10 +296,12 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2681-put-marbles-in-bags) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
