@@ -110,6 +110,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3429-special-array-i) |
@@ -164,6 +165,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2456-construct-smallest-number-from-di-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
