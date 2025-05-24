@@ -108,6 +108,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2856-count-complete-subarrays-in-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -162,6 +163,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2107-find-unique-binary-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -374,6 +376,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2456-construct-smallest-number-from-di-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3647-zero-array-transformation-iii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
@@ -397,6 +400,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Number Theory
