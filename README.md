@@ -158,6 +158,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -467,4 +468,16 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
