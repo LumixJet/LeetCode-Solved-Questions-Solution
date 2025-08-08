@@ -152,6 +152,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [0868-push-dominoes](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0868-push-dominoes) |
@@ -209,6 +210,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0868-push-dominoes](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -475,6 +477,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1508-longest-happy-prefix](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
