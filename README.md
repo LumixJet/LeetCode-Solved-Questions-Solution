@@ -130,6 +130,7 @@ This repository contains the solution of all the LeetCode questions which I have
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0076-minimum-window-substring) |
 | [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
@@ -155,6 +156,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0076-minimum-window-substring) |
 | [0868-push-dominoes](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0868-push-dominoes) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1170-shortest-common-supersequence) |
@@ -418,6 +420,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0076-minimum-window-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2478-longest-nice-subarray) |
