@@ -67,6 +67,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [0407-trapping-rain-water-ii](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -131,6 +132,7 @@ This repository contains the solution of all the LeetCode questions which I have
 | ------- |
 | [0049-group-anagrams](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0076-minimum-window-substring) |
+| [0496-next-greater-element-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/1160-letter-tile-possibilities) |
@@ -348,6 +350,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
@@ -439,6 +442,7 @@ This repository contains the solution of all the LeetCode questions which I have
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/0496-next-greater-element-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LumixJet/LeetCode-Solved-Questions-Solution/tree/master/3001-apply-operations-to-maximize-score) |
 ## Enumeration
 |  |
